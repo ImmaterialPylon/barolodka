@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Объект - 23" modversion="1.0.1" corepackage="False" gameversion="0.21.6.0">
+  <Submarine file="%ModDir%/Объект - 23.sub" />
+</contentpackage>
